@@ -1,0 +1,6 @@
+nginx.conf
+supervisord.conf
+Dockerfile
+Backend developer.docx
+products_teste.xlsx
+.~*

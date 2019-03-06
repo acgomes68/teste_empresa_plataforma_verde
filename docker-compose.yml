@@ -1,0 +1,10 @@
+version: '2'
+services:
+  webserver:
+    container_name: webserver
+    image: acgomes68/webserver
+    volumes:
+      - ./src:/src
+    ports:
+      - 8080:80
+
